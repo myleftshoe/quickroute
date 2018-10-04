@@ -1,2 +1,0 @@
-body{margin:0;padding:0;font-family:sans-serif}body,html{overflow:hidden}.sortableHelper{z-index:4000;background-color:transparent}.App{background-color:red}.drawer{width:22.5vw;height:100vh}@media (max-width:600px){.drawer{width:100vw}}text{pointer-events:none}.zoom{-webkit-transition:-webkit-transform .2s;transition:-webkit-transform .2s;-o-transition:transform .2s;transition:transform .2s;transition:transform .2s,-webkit-transform .2s}.zoom:hover{-webkit-transform:scale(1.1);-ms-transform:scale(1.1);transform:scale(1.1)}
-/*# sourceMappingURL=main.3782d500.css.map*/
